@@ -8,8 +8,8 @@
 |  3 | CB_tf_fi      | 0.23      |
 |  4 | CV_CB_bf      | -2.001    |
 |  5 | ET_wout_emb_f | 0.357     |
-|  6 | RF_wout_emb_f | **0.395** |
-|  7 | stacking      | -         |
+|  6 | RF_wout_emb_f | 0.395     |
+|  7 | stacking      | **0.397** |
 |  8 | KAN           | -1.188    |
 |  9 | gru           | -60.457   |
 | 10 | gru_condition | -         |
