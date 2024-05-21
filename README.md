@@ -10,9 +10,9 @@
 |  5 | ET_wout_emb_f | 0.357     |
 |  6 | RF_wout_emb_f | 0.395     |
 |  7 | stacking      | **0.397** |
-|  8 | KAN           | -1.188    |
+|  8 | gru_condition | -1.188    |
 |  9 | gru           | -60.457   |
-| 10 | gru_condition | -         |
+| 10 | KAN           | -         |
 
 `CB_af` - CatBoostRegressor with all features
 
